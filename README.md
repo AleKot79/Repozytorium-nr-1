@@ -1,10 +1,14 @@
-## 5 moich ulubionych książek
+<h1> 5 moich ulubionych książek </h1>
 </br>
-Lista książek z gatunku "Fantasy"
-</P>
-<OL>
-<LI>Harry Potter (Cała seria) autorstwa J.K. Rowling
-<LI>Zgon autorstwa Giny Damico
-<LI>Zwierzoduchy autorstwa kilku pisarzy
-<LI> 
-</OL>
+<h3>Lista książek z gatunku "Fantasy"</h3
+<UL>
+<LI> ,,Harry Potter" - J.K. Rowling (cała seria)
+<LI> ,,Zgon" - Gina Damico
+<LI> ,,Zwierzoduchy" - tomy napisane przez wielu autorów
+<LI> ,,Akademia Dobra i Zła" - Soman Chainani
+<LI> ,,Czarodziejki" - księgi napisane przez wielu autorów
+</UL>
+</br>
+</br>
+<h4> ,,Harry Potter" - <a href="https://pl.wikipedia.org/wiki/Harry_Potter">Daj się porwać magii!</a></h4>
+<h6> To jest przykładowy tekst </h6>
